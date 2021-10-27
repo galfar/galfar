@@ -1,4 +1,4 @@
-<h1 align="center" style="border: 0px">
-🙀 🙀 🙀
-</h1>
+<h1 align="center">🙀 🙀 🙀</h1>
+
+<br/>
 
